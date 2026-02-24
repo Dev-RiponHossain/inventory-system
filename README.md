@@ -195,16 +195,6 @@ inventory-system/
 
 ---
 
-## 🌐 Deploy to Railway.app (Free)
-
-1. Push code to GitHub
-2. Go to [railway.app](https://railway.app) → Login with GitHub
-3. Click **New Project** → **Deploy from GitHub repo**
-4. Add **MySQL** plugin
-5. Add environment variables from `.env`
-6. Run: `php artisan migrate --seed`
-7. Done! 🚀
-
 ---
 
 **Laravel 12 | Blade | Tailwind CSS | MySQL**
